@@ -3,3 +3,7 @@ venv
 .ipynb_checkpoints
 backup.txt
 aws_forecast_example.ipynb
+maharashtra_energy_dataset_filled.csv
+maharashtra_energy_dataset_target_series.csv
+long_data_.csv
+dataset_tk.csv
